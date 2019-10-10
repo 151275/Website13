@@ -13,6 +13,10 @@ body {
     height: 15%;
     font-size: 32px;
     text-align: center;
+    background-image: url(../foto/paarse maan.jpg);
+    background-size: 100%;
+    background-size: contain;
+
 }
 
 #container {
@@ -73,15 +77,13 @@ ul a:hover {
     text-align: center;
 }
 
-.fotos {
+#fotos {
 
 }
 
-#tacktiek1 {
-
-}
 
 #tacktiek2 {
     background-color: white;
     text-align: center;
+    padding: 7px;
 }
